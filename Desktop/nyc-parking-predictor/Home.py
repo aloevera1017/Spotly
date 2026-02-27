@@ -13,7 +13,7 @@ from geopy.distance import geodesic
 # Page config
 st.set_page_config(
     page_title="Spotly - Find Your Perfect Spot",
-    page_icon="🅿️",
+    page_icon="🚗",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -159,7 +159,7 @@ def predict_individual_space_occupancy(hour, day_of_week, is_weekend, borough, m
 df_locations = load_parking_locations()
 
 # Title
-st.markdown('<h1 class="main-header">🅿️ Spotly - Find Your Perfect Spot</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">Spotly - Find Your Perfect Spot</h1>', unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #64748b;'>Find Available Parking Spaces | Real-Time Individual Space Tracking</p>", unsafe_allow_html=True)
 
 # Address Search Bar (Top of page)
@@ -341,7 +341,7 @@ if 'space_predictions' in st.session_state:
     availability_rate = (available_spaces / total_spaces * 100) if total_spaces > 0 else 0
 
     with col1:
-        st.metric("🅿️ Total Spaces", f"{total_spaces:,}")
+        st.metric("📊 Total Spaces", f"{total_spaces:,}")
     with col2:
         st.metric("✅ Available", f"{available_spaces:,}", delta=f"{availability_rate:.1f}%")
     with col3:
@@ -429,7 +429,7 @@ if 'space_predictions' in st.session_state:
 
                 popup_html = f"""
                 <div style="font-family: Arial; width: 250px;">
-                    <h4 style="margin: 0; color: #1e3a8a;">🅿️ {street or 'Parking Location'}</h4>
+                    <h4 style="margin: 0; color: #1e3a8a;">📍 {street or 'Parking Location'}</h4>
                     <p style="margin: 5px 0; color: #64748b;">{borough}</p>
                     <hr style="margin: 5px 0;">
                     <p><b>Total Spaces:</b> {total}</p>
@@ -523,7 +523,7 @@ st.sidebar.markdown("🔴 **Red**: <25% available")
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #64748b; padding: 1rem;'>
-    <p><b>Spotly - Find Your Perfect Spot</b> 🅿️</p>
+    <p><b>Spotly - Find Your Perfect Spot</b></p>
     <p>AI-Powered Parking Made Simple | NYC Datathon 2024</p>
 </div>
 """, unsafe_allow_html=True)

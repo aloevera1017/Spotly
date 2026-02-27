@@ -358,6 +358,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #64748b; padding: 1rem;'>
     <p><b>Spotly Community</b> - Powered by Real Drivers, For Real Drivers</p>
-    <p>Help make NYC parking easier for everyone! 🅿️</p>
+    <p>Help make NYC parking easier for everyone!</p>
 </div>
 """, unsafe_allow_html=True)
