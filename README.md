@@ -1,4 +1,4 @@
-# 🅿️ NYC Parking Availability Predictor
+# Spotly: NYC Parking Availability Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-XGBoost-green.svg)
@@ -13,7 +13,7 @@ Predict parking availability across 15,000+ NYC parking locations using machine 
 
 ## 🎯 Project Overview
 
-This datathon project leverages the **NYC Open Data "Parking Meters Locations and Status Map"** dataset to build an intelligent parking prediction system. Since the dataset doesn't include real-time occupancy data, we've developed sophisticated simulation algorithms based on:
+This hackathon project leverages the **NYC Open Data "Parking Meters Locations and Status Map"** dataset to build an intelligent parking prediction system. Since the dataset doesn't include real-time occupancy data, we've developed sophisticated simulation algorithms based on:
 
 - ⏰ Time of day patterns
 - 📅 Day of week trends
@@ -248,11 +248,11 @@ nyc-parking-predictor/
 
 ## 👥 Team & Contributions
 
-**Your Team Name**: [Add your team name]
+**Your Team Name**: [Spotly]
 
 **Contributors**:
-- Data Science: [Your name] - Model development & simulation
-- Frontend Development: [Friend's name] - Dashboard & visualization
+- Data Science: [Ahmad Butt and Shota Terajima] - Model development & simulation
+- Frontend Development: [Mahfoudh Senhoury and Vera Zhou] - Dashboard & visualization
 
 ---
 
@@ -267,20 +267,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **NYC Open Data** for providing the parking meter dataset
 - **Streamlit** for the amazing dashboard framework
 - **XGBoost** team for the powerful ML library
-- Datathon organizers and mentors
+- Hackathon organizers and mentors
 
 ---
 
-## 📞 Contact
-
-For questions or feedback:
-- GitHub: [Your GitHub profile]
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn]
-
----
-
-## 🏆 Datathon Highlights
+## 🏆 Hackathon Highlights
 
 **What Makes This Project Stand Out:**
 
@@ -295,4 +286,4 @@ For questions or feedback:
 
 ---
 
-**Built with ❤️ for NYC Datathon 2024**
+**Built with ❤️ for CUNY Civic Tech Hackathon 2026**
