@@ -9,13 +9,14 @@
 
 Predict parking availability across 15,000+ NYC parking locations using machine learning, real-time data processing, and interactive visualization.
 
+<img width="500" height="500" alt="Spotly Screenshot" src="https://github.com/user-attachments/assets/b802a7b3-b0f0-47d6-ad63-f8f260af1a0d" />
+
+
+
+
 ---
 
 ## 🎯 Project Overview
-
-<img width="1449" height="914" alt="Screenshot 2026-02-27 at 5 28 42 PM" src="https://github.com/user-attachments/assets/b802a7b3-b0f0-47d6-ad63-f8f260af1a0d" />
-
-
 
 This hackathon project leverages the **NYC Open Data "Parking Meters Locations and Status Map"** dataset to build an intelligent parking prediction system. Since the dataset doesn't include real-time occupancy data, we've developed sophisticated simulation algorithms based on:
 
