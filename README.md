@@ -9,7 +9,7 @@
 
 Predict parking availability across 15,000+ NYC parking locations using machine learning, real-time data processing, and interactive visualization.
 
-<img width="500" height="500" alt="Spotly Screenshot" src="https://github.com/user-attachments/assets/b802a7b3-b0f0-47d6-ad63-f8f260af1a0d" />
+<img width="500" height="914" alt="Spotly Screenshot" src="https://github.com/user-attachments/assets/b802a7b3-b0f0-47d6-ad63-f8f260af1a0d" />
 
 
 
