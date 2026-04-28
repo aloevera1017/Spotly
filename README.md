@@ -69,7 +69,7 @@ nyc-parking-predictor/
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /Users/mahfoudh/Desktop/nyc-parking-predictor
+   cd /Users/verazhou/Downloads/Spotly-main-new/Spotly-main/Desktop/nyc-parking-predictor
    ```
 
 2. **Install dependencies:**
@@ -248,11 +248,11 @@ nyc-parking-predictor/
 
 ## 👥 Team & Contributions
 
-**Your Team Name**: [Spotly]
+**Your Team Name**: Spotly
 
 **Contributors**:
-- Data Science: [Ahmad Butt and Shota Terajima] - Model development & simulation
-- Frontend Development: [Mahfoudh Senhoury and Vera Zhou] - Dashboard & visualization
+- Data Science: Ahmad Butt and Shota Terajima - Model development & simulation
+- Frontend Development: Mahfoudh Senhoury and Vera Zhou - Dashboard & visualization
 
 ---
 
